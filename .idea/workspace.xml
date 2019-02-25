@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="java课程设计:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="512498c5-0fe4-46f2-b2bf-cc69a43d5f40" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/project/dao/ConnectMange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/selectStu.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/addStu.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/project/servlet/updateServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/selectStuResult.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/project/servlet/Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1770">
+              <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/project/entity/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/project/dao/StudentDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/project/dao/StudentDaoImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/project/servlet/toupdateServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="jsf" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\n\&lt;\%\@ page contentType\=\&quot;text\/html\;charset\=UTF\-8\&quot; language\=\&quot;java\&quot; pageEncoding\=\&quot;UTF\-8\&quot; \%\&gt;\n\&lt;html\&gt;\n\&lt;head\&gt;\n    \&lt;meta charset\=\&quot;UTF\-8\&quot;\&gt;\n    \&lt;title\&gt;\&lt;\/title\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;css\/bootstrap\.min\.css\&quot;\&gt;\n\&lt;\/head\&gt;\n\&lt;body style\=\&quot;background\: \#f3f3f3\&quot;\&gt;\n\&lt;nav class\=\&quot;navbar navbar\-default\&quot;\&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;\!\-\- Brand and toggle get grouped for better mobile display \-\-\&gt;\n        \&lt;div class\=\&quot;navbar\-header\&quot;\&gt;\n            \&lt;button type\=\&quot;button\&quot; class\=\&quot;navbar\-toggle collapsed\&quot; data\-toggle\=\&quot;collapse\&quot;\n                    data\-target\=\&quot;\#bs\-example\-navbar\-collapse\-1\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                \&lt;span class\=\&quot;sr\-only\&quot;\&gt;Toggle navigation\&lt;\/span\&gt;\n                \&lt;span class\=\&quot;icon\-bar\&quot;\&gt;\&lt;\/span\&gt;\n                \&lt;span class\=\&quot;icon\-bar\&quot;\&gt;\&lt;\/span\&gt;\n                \&lt;span class\=\&quot;icon\-bar\&quot;\&gt;\&lt;\/span\&gt;\n            \&lt;\/button\&gt;\n            \&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;\&quot;\&gt;学生管理\&lt;\/a\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/nav\&gt;\n\&lt;div\&gt;\n    \&lt;ul class\=\&quot;nav  nav\-stacked\&quot; style\=\&quot;width\: 200px\;margin\-left\: 100px\;height\: 500px\;background\:\#ffffff\;float\: left\&quot;\&gt;\n        \&lt;li role\=\&quot;presentation\&quot; class\=\&quot;active\&quot;\&gt;\&lt;a href\=\&quot;selectstudent\.jsp\&quot;\&gt;查询学生\&lt;\/a\&gt;\&lt;\/li\&gt;\n        \&lt;li role\=\&quot;presentation\&quot;\&gt;\&lt;a href\=\&quot;studentmange\.jsp\&quot;\&gt;学生管理\&lt;\/a\&gt;\&lt;\/li\&gt;\n        \&lt;li role\=\&quot;presentation\&quot;\&gt;\&lt;a href\=\&quot;addstudent\.jsp\&quot;\&gt;添加学生\&lt;\/a\&gt;\&lt;\/li\&gt;\n    \&lt;\/ul\&gt;\n    \&lt;div class\=\&quot;form_table\&quot; style\=\&quot;background\:\#ffffff\;width\: 500px\;margin\-left\: 200px\;margin\-bottom\: 50px\;float\: left\&quot;\&gt;\n        \&lt;h3 style\=\&quot;text\-align\: center\&quot;\&gt;修改学生\&lt;\/h3\&gt;\n        \&lt;form method\=\&quot;post\&quot; action\=\&quot;updateServlet\&quot;\&gt;\n            \&lt;div class\=\&quot;form\-container\&quot;\&gt;\n                \&lt;div class\=\&quot;form\-group\&quot;\&gt;\n                    \&lt;input name\=\&quot;sid\&quot; class\=\&quot;form\-control\&quot; type\=\&quot;text\&quot; placeholder\=\&quot;学号\&quot;\n                           style\=\&quot;width\: 200px \;margin\: auto\&quot; value\=\&quot;\&lt;\%\=request\.getParameter\(\&quot;sid\&quot;\)\%\&gt;\&quot;\&gt;\n                \&lt;\/div\&gt;\n                \&lt;div class\=\&quot;form\-group\&quot;\&gt;\n                    \&lt;input name\=\&quot;sname\&quot; class\=\&quot;form\-control\&quot; type\=\&quot;text\&quot; placeholder\=\&quot;姓名\&quot;\n                           style\=\&quot;width\: 200px\;margin\: auto\&quot; \&gt;\n                \&lt;\/div\&gt;\n                \&lt;div class\=\&quot;form\-group\&quot;\&gt;\n                    \&lt;input name\=\&quot;szy\&quot; class\=\&quot;form\-control\&quot; type\=\&quot;text\&quot; placeholder\=\&quot;专业\&quot;\n                           style\=\&quot;width\: 200px\;margin\: auto\&quot; \&gt;\n                \&lt;\/div\&gt;\n                \&lt;div class\=\&quot;form\-group\&quot;\&gt;\n                    \&lt;input name\=\&quot;sxy\&quot; class\=\&quot;form\-control\&quot; type\=\&quot;text\&quot; placeholder\=\&quot;学院\&quot;\n                           style\=\&quot;width\: 200px\;margin\: auto\&quot; \&gt;\n                \&lt;\/div\&gt;\n                \&lt;div class\=\&quot;form\-group\&quot;\&gt;\n                    \&lt;button class\=\&quot;btn btn\-primary btn\-block active\&quot; style\=\&quot;width\: 200px\;margin\: auto\&quot;\n                            type\=\&quot;submit\&quot;\&gt;修改\n                    \&lt;\/button\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/form\&gt;\n\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/com/project/entity/student.java" />
+        <option value="$PROJECT_DIR$/src/com/project/dao/studnetdao.java" />
+        <option value="$PROJECT_DIR$/src/com/project/dao/studentdao.java" />
+        <option value="$PROJECT_DIR$/src/com/project/dao/Studentdao.java" />
+        <option value="$PROJECT_DIR$/src/com/project/dao/Studentdaoimp.java" />
+        <option value="$PROJECT_DIR$/src/com/project/servlet/addServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/project/servise/StudentService.java" />
+        <option value="$PROJECT_DIR$/src/com/project/servise/StudentServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/com/project/servlet/addStudent.java" />
+        <option value="$PROJECT_DIR$/web/add.xhtml" />
+        <option value="$PROJECT_DIR$/src/com/project/servlet/listServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/project/entity/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/project/servlet/selectStuServlet.java" />
+        <option value="$PROJECT_DIR$/web/11.jsp" />
+        <option value="$PROJECT_DIR$/src/com/project/filter/EncodingFilter.java" />
+        <option value="$PROJECT_DIR$/web/addstudent.jsp" />
+        <option value="$PROJECT_DIR$/web/selectResult.jsp" />
+        <option value="$PROJECT_DIR$/web/selectstudent.jsp" />
+        <option value="$PROJECT_DIR$/src/com/project/dao/SqlConnectDao.java" />
+        <option value="$PROJECT_DIR$/web/updatestudent.jsp" />
+        <option value="$PROJECT_DIR$/web/studentmange.jsp" />
+        <option value="$PROJECT_DIR$/web/error.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/com/project/Test/Test.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a467bed8-07cb-4b8e-83db-8e801d041901/console.sql" />
+        <option value="$PROJECT_DIR$/src/com/project/servlet/addStuServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/project/servlet/updateServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/project/servlet/selectServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/project/servlet/toupdateServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/project/servlet/servletextra/delStuServlet/delStuServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/project/servlet/delStuServlet.java" />
+        <option value="$PROJECT_DIR$/web/updateStu.jsp" />
+        <option value="$PROJECT_DIR$/web/selectStuResult.jsp" />
+        <option value="$PROJECT_DIR$/web/selectStu.jsp" />
+        <option value="$PROJECT_DIR$/web/StuMange.jsp" />
+        <option value="$PROJECT_DIR$/src/com/project/dao/StudentDao.java" />
+        <option value="$PROJECT_DIR$/web/addStu.jsp" />
+        <option value="$PROJECT_DIR$/src/com/project/servlet/Servlet.java" />
+        <option value="$PROJECT_DIR$/src/com/project/dao/StudentDaoImp.java" />
+        <option value="$PROJECT_DIR$/src/com/project/dao/ConnectMange.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java课程设计" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java课程设计" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java课程设计" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java课程设计" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java课程设计" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java课程设计" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java课程设计" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlserver" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549860309424" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="D:/apache-tomcat-9.0.16/lib/servlet-api.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\我的文件\java课程设计\src\com\project\servlet" />
+      <recent name="E:\我的文件\java课程设计\src\com\project\servlet\servletextra" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.project.servlet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\我的文件\java课程设计\web\js" />
+      <recent name="E:\我的文件\java课程设计\web\css" />
+      <recent name="E:\我的文件\java课程设计\web\WEB-INF" />
+      <recent name="E:\我的文件\java课程设计\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.MyTomcate">
+    <configuration name="ConnectMange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.dao.ConnectMange" />
+      <module name="java课程设计" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTomcate" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="java课程设计:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_project_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57187" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="java课程设计:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="java课程设计:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57187" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="java课程设计:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConnectMange" />
+      <item itemvalue="Tomcat Server.MyTomcate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConnectMange" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="512498c5-0fe4-46f2-b2bf-cc69a43d5f40" name="Default Changelist" comment="" />
+      <created>1543469598941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543469598941</updated>
+      <workItem from="1543469603633" duration="2021000" />
+      <workItem from="1543471863570" duration="11828000" />
+      <workItem from="1543489541863" duration="2658000" />
+      <workItem from="1543492247572" duration="1923000" />
+      <workItem from="1543494934172" duration="5330000" />
+      <workItem from="1543551367297" duration="12970000" />
+      <workItem from="1543570915275" duration="7283000" />
+      <workItem from="1543578503931" duration="4820000" />
+      <workItem from="1543585204344" duration="3378000" />
+      <workItem from="1543641660380" duration="11952000" />
+      <workItem from="1543669678377" duration="207000" />
+      <workItem from="1543724323963" duration="21314000" />
+      <workItem from="1543756320793" duration="533000" />
+      <workItem from="1543812668256" duration="365000" />
+      <workItem from="1543851171413" duration="23000" />
+      <workItem from="1543900307311" duration="197000" />
+      <workItem from="1543931868326" duration="69000" />
+      <workItem from="1543975229461" duration="3746000" />
+      <workItem from="1544272264753" duration="118000" />
+      <workItem from="1544360725813" duration="577000" />
+      <workItem from="1544580274059" duration="115000" />
+      <workItem from="1544582484068" duration="322000" />
+      <workItem from="1544583436239" duration="224000" />
+      <workItem from="1544585090963" duration="376000" />
+      <workItem from="1545115731024" duration="22000" />
+      <workItem from="1545288232449" duration="1027000" />
+      <workItem from="1545380106069" duration="781000" />
+      <workItem from="1545447070421" duration="611000" />
+      <workItem from="1545540810982" duration="201000" />
+      <workItem from="1546426894381" duration="608000" />
+      <workItem from="1547538982684" duration="78000" />
+      <workItem from="1547557660246" duration="577000" />
+      <workItem from="1547644051566" duration="298000" />
+      <workItem from="1548320881595" duration="279000" />
+      <workItem from="1548424285636" duration="846000" />
+      <workItem from="1548487159082" duration="2474000" />
+      <workItem from="1548513360055" duration="3000" />
+      <workItem from="1548513435242" duration="1557000" />
+      <workItem from="1548567769561" duration="1349000" />
+      <workItem from="1548574398890" duration="16844000" />
+      <workItem from="1548686500479" duration="539000" />
+      <workItem from="1548940089149" duration="649000" />
+      <workItem from="1548943855540" duration="1241000" />
+      <workItem from="1549196385677" duration="69000" />
+      <workItem from="1549455113568" duration="405000" />
+      <workItem from="1549798058358" duration="554000" />
+      <workItem from="1549852827252" duration="1149000" />
+      <workItem from="1549854222705" duration="3736000" />
+      <workItem from="1549962048032" duration="797000" />
+      <workItem from="1550991043416" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="129170000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4852459" visible="true" weight="0.2677761" />
+      <window_info id="Structure" order="1" sideWeight="0.5147541" side_tool="true" weight="0.23676248" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5147541" side_tool="true" weight="0.23676248" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5147541" side_tool="true" weight="0.23676248" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.32786885" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50226927" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32786885" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.3295082" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/com/project/dao/studnetdao.java" />
+    <entry file="jar://D:/java/jdk1.8.0_191/src.zip!/java/sql/Connection.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/project/servise/StudentService.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/project/servise/StudentServiceImp.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/project/servlet/addStudent.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/project/servlet/addStu.java" />
+    <entry file="file://$PROJECT_DIR$/web/add.xhtml" />
+    <entry file="file://$PROJECT_DIR$/web/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/project/servlet/listServlet.java" />
+    <entry file="jar://D:/tomcat/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class" />
+    <entry file="jar://D:/java/jdk1.8.0_191/src.zip!/java/lang/Thread.java" />
+    <entry file="file://$PROJECT_DIR$/web/11.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/com/project/servlet/selectStuServlet.java" />
+    <entry file="file://$PROJECT_DIR$/java课程设计.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/project/filter/EncodingFilter.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a467bed8-07cb-4b8e-83db-8e801d041901/console.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a467bed8-07cb-4b8e-83db-8e801d041901/console_1.sql" />
+    <entry file="file://$PROJECT_DIR$/src/com/project/Test/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/project/servlet/selectServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/project/servlet/addStuServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-520">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/project/servlet/servletextra/delStuServlet/delStuServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/project/servlet/delStuServlet.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/error.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/updateStu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_191/src.zip!/java/lang/Class.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c2bf39de-1f77-42c0-ba77-72927bff334a/console.sql" />
+    <entry file="file://$PROJECT_DIR$/web/StuMange.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="31" selection-start-line="31" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/project/servlet/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/project/entity/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/project/dao/StudentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/project/dao/StudentDaoImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/project/servlet/toupdateServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/project/servlet/updateServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/selectStuResult.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/selectStu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/addStu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/project/dao/ConnectMange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>java课程设计:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (java课程设计)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|java课程设计</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>servlet-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
